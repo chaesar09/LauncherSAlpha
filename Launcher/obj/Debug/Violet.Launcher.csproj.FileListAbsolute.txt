@@ -1,0 +1,15 @@
+C:\Users\chaesar\Documents\amar project\Launcher\bin\Debug\Violet.exe.config
+C:\Users\chaesar\Documents\amar project\Launcher\bin\Debug\Violet.exe
+C:\Users\chaesar\Documents\amar project\Launcher\bin\Debug\Violet.pdb
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.Launcher.csproj.AssemblyReference.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\App.g.cs
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet_MarkupCompile.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet_MarkupCompile.lref
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\MainWindow.baml
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.g.resources
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.Launcher.csproj.GenerateResource.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.Launcher.csproj.CoreCompileInputs.cache
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.exe
+C:\Users\chaesar\Documents\amar project\Launcher\obj\Debug\Violet.pdb
