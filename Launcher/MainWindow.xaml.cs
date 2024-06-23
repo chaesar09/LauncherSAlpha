@@ -48,9 +48,12 @@ namespace Launcher
 
         private void SelfUpdate()
         {
-           
-            if (Assembly.GetExecutingAssembly().GetName().Version.ToString() != Stats("http://84.200.24.69/versionviolet.txt"))
+
+            var currentVersion = Assembly.GetExecutingAssembly().GetName().Version.ToString();
+            var latestVersion = Stats("http://156.67.219.144/s4league/versionlauncher.txt");
+            if (currentVersion != latestVersion)
             {
+                MessageBox.Show($"Current Version: {currentVersion}\nLatest Version: {latestVersion}");
                 Process.Start("SelfUpdate.exe");
                 Environment.Exit(0);
             }
@@ -61,7 +64,7 @@ namespace Launcher
         private void FileCheck()
         {
 
-            foreach (var file in Stats("http://84.200.24.69/updatelistviolet.txt").Split('\n'))
+            foreach (var file in Stats("http://156.67.219.144/s4league/updatelist.txt").Split('\n'))
             {
                 if (string.IsNullOrEmpty(file))
                     continue;
@@ -104,7 +107,7 @@ namespace Launcher
         {
             try
             {
-                client.DownloadFileAsync(new Uri("http://84.200.24.69/filesviolet/" + DownloadList[count]), Environment.CurrentDirectory + @"\" + DownloadList[count]);
+                client.DownloadFileAsync(new Uri("http://156.67.219.144/s4league/files/" + DownloadList[count]), Environment.CurrentDirectory + @"\" + DownloadList[count]);
 
                 count++;
             }
@@ -285,7 +288,7 @@ namespace Launcher
             }
 
           //   Reset();
-            if (Stats("http://84.200.24.69/updatelistviolet.txt").Length == 0)
+            if (Stats("http://156.67.219.144/s4league/updatelist.txt").Length == 0)
             {
                 ButtonState = 1;
                 dbgtx.Content = "Ready for Login";
@@ -299,14 +302,14 @@ namespace Launcher
 
             SelfUpdate();
 
-            loginstats.Content = "Login status : " + Stats("http://84.200.24.69/Loginserver.txt");
-            serverstats.Content = "Server status:  " + Stats("http://84.200.24.69/Gameserver.txt");
-            Online.Content = "Player count : " + Stats("http://84.200.24.69/playercountviolet.txt");
+            //loginstats.Content = "Login status : " + Stats("http://84.200.24.69/Loginserver.txt");
+            //serverstats.Content = "Server status:  " + Stats("http://84.200.24.69/Gameserver.txt");
+            //Online.Content = "Player count : " + Stats("http://84.200.24.69/playercountviolet.txt");
 
             client.DownloadProgressChanged += client_ProgressChanged;
             client.DownloadFileCompleted += client_DownloadCompleted;
 
-            LoadNotice();
+            //LoadNotice();
 
             Properties.Settings.Default.Reload();
 
