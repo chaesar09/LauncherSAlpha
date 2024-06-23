@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\LauncherSAlpha\\Launcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|d:\\project\\launchersalpha\\launcher\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Violet.Launcher||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\s4v.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:s4v.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\loginapi\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:loginapi\\fingerprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\loginapi\\databytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:loginapi\\databytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|D:\\Project\\LauncherSAlpha\\Launcher\\loginapi\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|solutionrelative:loginapi\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D04AB7-3200-4229-8EEC-635E20C672B0}|Violet.Launcher.csproj|d:\\project\\launchersalpha\\launcher\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:34:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Violet.Launcher",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\Violet.Launcher.csproj",
+              "RelativeDocumentMoniker": "Violet.Launcher.csproj",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\Violet.Launcher.csproj",
+              "RelativeToolTip": "Violet.Launcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-23T14:09:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-23T14:09:28.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "s4v.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\s4v.ico",
+              "RelativeDocumentMoniker": "s4v.ico",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\s4v.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "s4v.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-06-23T14:09:18.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:37:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:37:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:37:48.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bytearray.cs",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\LoginAPI\\Bytearray.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Bytearray.cs",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\LoginAPI\\Bytearray.cs",
+              "RelativeToolTip": "LoginAPI\\Bytearray.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwIEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:35:31.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Databytes.cs",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\LoginAPI\\Databytes.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Databytes.cs",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\LoginAPI\\Databytes.cs",
+              "RelativeToolTip": "LoginAPI\\Databytes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:35:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FingerPrint.cs",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\LoginAPI\\FingerPrint.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\FingerPrint.cs",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\LoginAPI\\FingerPrint.cs",
+              "RelativeToolTip": "LoginAPI\\FingerPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:35:29.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Project\\LauncherSAlpha\\Launcher\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "D:\\Project\\LauncherSAlpha\\Launcher\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:35:08.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
